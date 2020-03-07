@@ -1,0 +1,90 @@
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+No song was played before this one
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Current song playing is, "'Till I Collapse" by Roddy Ricch
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Next song is, "10 Freaky Girls (with 21 Savage)" by Eminem
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Previous song was, "'Till I Collapse" by Roddy Ricch
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Current song playing is, "10 Freaky Girls (with 21 Savage)" by Eminem
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Next song is, "10000 Hours (with Justin Bieber)" by Future
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Current song playing is, "10000 Hours (with Justin Bieber)" by Future
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Previous song was, "10 Freaky Girls (with 21 Savage)" by Eminem
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Next song is, "11 Minutes (with Halsey feat. Travis Barker)" by Mac Miller
+
+Available actions:
+press
+Q - to quit
+P - the previous song
+C - the current song
+N -  to play next song
+
+Thanks for listening!!!
+
